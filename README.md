@@ -3,7 +3,7 @@
 A clean, accessible, responsive marketing site for PantryPulse — a simple tool that helps shops keep shelves full and waste low with timely expiry and low-stock alerts.
 
 ## Live Demo
-- Deploy link: (add your Vercel URL here after deployment)
+-https://pantrypulse-site.vercel.app/
 
 ## Preview (Screenshots)
 Desktop (Home)  
@@ -25,9 +25,9 @@ Mobile (Contact)
 - Clear hero copy and CTA
 - Pricing tiers and plan comparison table
 - Features section + How it works
-- FAQ accordion (`<details>` / `<summary>`)
+- FAQ accordion
 - Contact page (details + visual form)
-- Open Graph image for rich link previews (`public/og.png`)
+- Open Graph image for rich link previews
 
 ## Tech Stack
 - Next.js 14 (App Router)
@@ -38,7 +38,7 @@ Mobile (Contact)
 ## Getting Started (Locally)
 ```bash
 # 1) Clone
-git clone <YOUR_GITHUB_REPO_URL>.git
+git clone https://github.com/Talal609-sudo/pantrypulse-site.git
 cd pantrypulse-site
 
 # 2) Install
