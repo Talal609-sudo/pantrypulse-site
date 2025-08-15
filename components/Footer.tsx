@@ -1,11 +1,8 @@
+// components/Footer.tsx
 export default function Footer() {
   return (
-    <footer role="contentinfo" className="mt-24">
-      <div className="container">
-        <div className="card px-5 py-5 text-sm text-white/70">
-          © {new Date().getFullYear()} PantryPulse — Contact: info@pantrypulse.com
-        </div>
-      </div>
+    <footer className="py-6 text-center text-sm text-gray-500 dark:text-gray-400">
+      © 2025 PantryPulse — Contact: info@pantrypulse.com
     </footer>
   );
 }
