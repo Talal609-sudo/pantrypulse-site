@@ -16,7 +16,7 @@ export default function ContactPage({ searchParams }: { searchParams?: { plan?: 
           <h2 className="text-xl font-semibold">Get in touch</h2>
           <div className="mt-6 space-y-3">
             <p>Talal</p>
-            <p>+92 332 4217162</p>
+            <p>+1 (000) 000-0000</p>
             <p>info@pantrypulse.com</p>
             {selectedPlan ? (
               <p className="mt-2 text-sm">

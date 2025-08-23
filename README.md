@@ -12,8 +12,8 @@ Desktop (Home)
 Mobile (Home)  
 ![Home — Mobile](./screenshots/home-mobile-1.png)
 
-Mobile (Contact)  
-![Contact — Mobile](./screenshots/contact-mobile-2.png)
+Mobile (Faq)  
+![Contact — Mobile](./screenshots/faq-mobile-2.jpeg)
 
 ## Overview
 - Purpose: Present PantryPulse, capture interest, and route users to Pricing/Contact.
