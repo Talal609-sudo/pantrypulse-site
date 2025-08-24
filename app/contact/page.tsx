@@ -17,7 +17,7 @@ export default function ContactPage({ searchParams }: { searchParams?: { plan?: 
           <div className="mt-6 space-y-3">
             <p>Talal</p>
             <p>+1 (000) 000-0000</p>
-            <p>info@pantrypulse.com</p>
+            <p>contact@example.com</p>
             {selectedPlan ? (
               <p className="mt-2 text-sm">
                 <span className="badge">Selected plan: {selectedPlan}</span>
